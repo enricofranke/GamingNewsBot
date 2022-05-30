@@ -1,9 +1,10 @@
 ### This is The GamingNewsBot
+-❌ this project is no longer being developed ❌
+
 
 - 🔭 Development hours: 6H untill now
 - 🌱  Developed with Node.js
-- 👯 Current development phase: in work
-- 🥅 2021 Goals: Finish It
+- 👯 Current development phase: discontinued
 
 <br />
 
